@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-this is the first repository for instructional purposes only
+My name is Shelby Lin, I am an economist, photographer, athlete, and learner.
