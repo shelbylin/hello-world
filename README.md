@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-first repository
+this is the first repository for instructional purposes only
